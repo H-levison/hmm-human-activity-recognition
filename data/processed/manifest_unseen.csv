@@ -1,0 +1,13 @@
+recording,activity,raw_duration_s,clean_duration_s,native_acc_hz,native_gyr_hz,resampled_hz,n_samples,source_zip
+Jumping_U1,Jumping,11.493,8.0,51.339,51.339,50.0,400,Jumping_U1-2026-10-31_00-23-31.zip
+Jumping_U2,Jumping,11.215,8.0,51.339,51.339,50.0,400,Jumping_U2-2026-10-31_00-24-11.zip
+Jumping_U3,Jumping,12.685,8.0,51.339,51.339,50.0,400,Jumping_U3-2026-10-31_00-24-36.zip
+Standing_U1,Standing,14.948,8.0,51.338,51.338,50.0,400,Standing_U1-2026-10-31_00-26-00.zip
+Standing_U2,Standing,11.478,8.0,51.335,51.335,50.0,400,Standing_U2-2026-10-31_00-26-39.zip
+Standing_U3,Standing,15.058,8.0,51.337,51.337,50.0,400,Standing_U3-2026-10-31_00-27-32.zip
+Still_U1,Still,12.124,8.0,51.332,51.332,50.0,400,Still_U1-2026-10-31_01-06-44.zip
+Still_U2,Still,10.983,8.0,51.334,51.334,50.0,400,Still_U2-2026-10-31_01-07-12.zip
+Still_U3,Still,11.081,8.0,51.335,51.335,50.0,400,Still_U3-2026-10-31_01-07-43.zip
+Walking_U1,Walking,11.544,8.0,51.335,51.335,50.0,400,Walking_U1-2026-10-31_01-08-23.zip
+Walking_U2,Walking,11.028,8.0,51.337,51.337,50.0,400,Walking_U2-2026-10-31_01-11-07.zip
+Walking_U3,Walking,13.446,8.0,51.336,51.336,50.0,400,Walking_U3-2026-10-31_01-11-42.zip

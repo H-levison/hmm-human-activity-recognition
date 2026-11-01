@@ -1,0 +1,5 @@
+activity,segments,mean_dwell_s,min_dwell_s,max_dwell_s,self_transition,implied_mean_dwell_s
+Still,4,12.051,7.517,16.089,0.911,11.256
+Standing,5,16.908,10.8,23.764,0.949,19.628
+Walking,3,11.341,8.804,13.051,0.931,14.522
+Jumping,2,11.096,10.674,11.519,0.902,10.174

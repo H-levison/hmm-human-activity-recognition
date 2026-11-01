@@ -1,0 +1,7 @@
+condition,n_windows,accuracy,macro_f1,macro_sensitivity,macro_specificity
+held-out recordings (same session),84,1.0,1.0,1.0,1.0
+unseen session,84,0.6548,0.6111,0.6548,0.8849
+circuits (all windows),186,0.6237,0.6346,0.7453,0.8871
+circuits (outside guard band),90,0.6778,0.6528,0.8117,0.91
+"circuits, degenerate A",186,0.6237,0.6334,0.7453,0.8872
+"Baum-Welch (unsupervised, train)",364,1.0,1.0,1.0,1.0

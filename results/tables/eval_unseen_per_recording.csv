@@ -1,0 +1,13 @@
+recording,true,windows,correct,accuracy,decoded
+Jumping_U1,Jumping,7,7,1.0,Jump Jump Jump Jump Jump Jump Jump
+Jumping_U2,Jumping,7,7,1.0,Jump Jump Jump Jump Jump Jump Jump
+Jumping_U3,Jumping,7,7,1.0,Jump Jump Jump Jump Jump Jump Jump
+Standing_U1,Standing,7,0,0.0,Walk Walk Walk Walk Walk Walk Walk
+Standing_U2,Standing,7,6,0.8571,Stan Stan Stan Stan Stan Stan Walk
+Standing_U3,Standing,7,4,0.5714,Stan Stan Walk Walk Stan Stan Walk
+Still_U1,Still,7,0,0.0,Stan Stan Stan Stan Stan Stan Stan
+Still_U2,Still,7,0,0.0,Stan Stan Stan Stan Stan Stan Stan
+Still_U3,Still,7,3,0.4286,Walk Stan Stil Stil Stil Stan Stan
+Walking_U1,Walking,7,7,1.0,Walk Walk Walk Walk Walk Walk Walk
+Walking_U2,Walking,7,7,1.0,Walk Walk Walk Walk Walk Walk Walk
+Walking_U3,Walking,7,7,1.0,Walk Walk Walk Walk Walk Walk Walk
